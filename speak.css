@@ -31,6 +31,7 @@ h1{
 }
 #voice{
     width: 150px;
+    display: none;
     
 }
 #btn{
